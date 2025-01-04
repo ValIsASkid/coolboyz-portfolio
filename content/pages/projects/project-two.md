@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'My first official system, looking to sell it.'
 colors: colors-a
 date: '2024-10-02'
-client: Awesome client
+client: Not sold (yet)
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
