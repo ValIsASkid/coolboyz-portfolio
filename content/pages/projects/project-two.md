@@ -4,10 +4,7 @@ title: 'My first official system, looking to sell it.'
 colors: colors-a
 date: '2024-10-02'
 client: Not sold (yet)
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: 'This is the first time I have uploaded one of my own '
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
