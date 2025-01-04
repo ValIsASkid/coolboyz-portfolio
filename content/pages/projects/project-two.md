@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'My first official system, looking to sell it.'
 colors: colors-a
-date: '0024-12-20'
+date: ''
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
