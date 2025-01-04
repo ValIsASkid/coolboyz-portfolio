@@ -17,9 +17,9 @@ sections:
       Hi, I am CoolBoyz_v, a roblox devloper who specialises in modelling and
       scripting systems.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am 16, been playing and devloping on roblox 5 for years, it has only
+      been for 3 months that I decided to start a carrer in devlopment and I
+      aspire to learn more and suceed with my goals.
     styles:
       self:
         height: auto
